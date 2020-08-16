@@ -24,6 +24,7 @@
     <ProjectGuid>{3074b368-f9a3-4d6c-a8ba-a40f0aae6b78}</ProjectGuid>
     <RootNamespace>myfirstproject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Challenge_loop_if_basicmath</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="myFirstSourceFile.cpp" />
+    <ClCompile Include="Challenge_loop_if_basicmath.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
